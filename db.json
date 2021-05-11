@@ -1,0 +1,19 @@
+{
+  "cxold":  {
+    "hotversion": "2.5.1",
+    "version": "2.4",
+    "injection": "<p style=\"color:red\">脚本答题试题收录相对缓慢且可能存在安全隐患，强烈建议有需要的用户使用专业版公众号搜题，全网独家聚合题库，累计收录超过1亿，智能爬虫自研引擎，收录更全搜题更快使用更稳。</p>\n\n<p style=\"text-align:right;width:100%;margin:0;\"><a href=\"https://z3.ax1x.com/2021/05/11/gaG9xJ.jpg\" target='_blank' style=\"color:red;\">体验专业版搜题</a></p>",
+    "enforce": false,
+    "url": ""
+  },
+  "cx": {
+  "id": 3, "title": "Post 3" 
+  },
+  "zgdxmc": {
+	  "hotversion": "3.4.5",
+	  "version": "3.5",
+	  "injection": "\u003cspan style=\"color:#ff8d00\"\u003e由于相关平台的政策规定，本插件自动答题功能暂不可用，其他功能不受影响！\u003c/span\u003e\u003cspan\u003e目前已经开放网页搜题，您可以使用网页搜题安全地查找答案（免费）；推荐使用公众号搜题，题库更全，支持在线考试，支持冷门科目，支持图片搜题\u003c/span\u003e\u003cp style=\"float:center\"\u003e\u003ca href=\"https://www.daokesouti.com\" target='_blank'\u003e点击打开网页搜题\u003c/a\u003e |||\u003ca href=\"https://assets.dockeer.com/souti/wxqr.jpg\" target='_blank'\u003e点击使用公众号搜题\u003c/a\u003e\u003c/p\u003e",
+	  "enforce": false,
+	  "url": "https://www.daokesouti.com"
+  }
+}
